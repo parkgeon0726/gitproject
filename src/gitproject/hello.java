@@ -16,6 +16,7 @@ public class hello {
             System.out.println("나눗셈: " + ((double)num1 / num2));
         } else {
             System.out.println("0으로 나눌 수 없습니다.");
+            //다시 수정함
         }
     }
 }
